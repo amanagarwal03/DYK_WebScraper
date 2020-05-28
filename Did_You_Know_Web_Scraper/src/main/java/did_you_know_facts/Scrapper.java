@@ -1,3 +1,5 @@
+package did_you_know_facts;
+
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import org.openqa.selenium.By;

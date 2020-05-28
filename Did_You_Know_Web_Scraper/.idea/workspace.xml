@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b936fae1-ebdd-445d-882e-d3944ad90f20" name="Default Changelist" comment="" />
+    <list default="true" id="b936fae1-ebdd-445d-882e-d3944ad90f20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/DYK_WebScraper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/did_you_know_facts_org.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/did_you_know_facts_org_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/did_you_know_org/Scrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Scrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/did_you_know_facts/Scrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scrapper.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,15 +37,21 @@
     </option>
   </component>
   <component name="ProjectId" id="1cHIac5DMEOIcWrmgCKWqeAQPKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,16 +59,34 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
-    <configuration name="Scrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scrapper" />
-      <module name="Did_You_Know_WebScraper" />
+  <component name="RunManager" selected="Application.Scrapper (1)">
+    <configuration name="Scrapper (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="did_you_know_org.Scrapper" />
+      <module name="Did_You_Know_Web_Scraper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="did_you_know_org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="did_you_know_facts.Scrapper" />
+      <module name="Did_You_Know_Web_Scraper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Scrapper" />
+      <item itemvalue="Application.Scrapper (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scrapper (1)" />
         <item itemvalue="Application.Scrapper" />
       </list>
     </recent_temporary>
@@ -76,49 +115,65 @@
       <updated>1590179156856</updated>
       <workItem from="1590179160574" duration="9098000" />
       <workItem from="1590243071794" duration="480000" />
+      <workItem from="1590624012792" duration="9880000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="677" y="374" width="649" height="639" key="#xdebugger.evaluate" timestamp="1590189218929">
+    <state x="572" y="236" key="#Scrapper" timestamp="1590624055494">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="677" y="374" width="649" height="639" key="#xdebugger.evaluate/0.23.1792.1097@0.23.1792.1097" timestamp="1590189218929" />
-    <state width="1750" height="295" key="GridCell.Tab.0.bottom" timestamp="1590193232327">
+    <state x="572" y="236" key="#Scrapper/0.23.1792.1097@0.23.1792.1097" timestamp="1590624055494" />
+    <state x="360" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590624121150">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="295" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590193232327" />
-    <state width="1750" height="295" key="GridCell.Tab.0.center" timestamp="1590193232326">
+    <state x="360" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1590624121150" />
+    <state x="787" y="402" width="649" height="639" key="#xdebugger.evaluate" timestamp="1590626330256">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="295" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590193232326" />
-    <state width="1750" height="295" key="GridCell.Tab.0.left" timestamp="1590193232326">
+    <state x="787" y="402" width="649" height="639" key="#xdebugger.evaluate/0.23.1792.1097@0.23.1792.1097" timestamp="1590626330256" />
+    <state width="1750" height="295" key="GridCell.Tab.0.bottom" timestamp="1590633222937">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="295" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590193232326" />
-    <state width="1750" height="295" key="GridCell.Tab.0.right" timestamp="1590193232327">
+    <state width="1750" height="295" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590633222937" />
+    <state width="1750" height="295" key="GridCell.Tab.0.center" timestamp="1590633222936">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="295" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590193232327" />
-    <state width="1750" height="364" key="GridCell.Tab.1.bottom" timestamp="1590190267176">
+    <state width="1750" height="295" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590633222936" />
+    <state width="1750" height="295" key="GridCell.Tab.0.left" timestamp="1590633222935">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="364" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590190267176" />
-    <state width="1750" height="364" key="GridCell.Tab.1.center" timestamp="1590190267175">
+    <state width="1750" height="295" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590633222935" />
+    <state width="1750" height="295" key="GridCell.Tab.0.right" timestamp="1590633222937">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="364" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590190267175" />
-    <state width="1750" height="364" key="GridCell.Tab.1.left" timestamp="1590190267175">
+    <state width="1750" height="295" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590633222937" />
+    <state width="1750" height="364" key="GridCell.Tab.1.bottom" timestamp="1590626347711">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="364" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590190267175" />
-    <state width="1750" height="364" key="GridCell.Tab.1.right" timestamp="1590190267175">
+    <state width="1750" height="364" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590626347711" />
+    <state width="1750" height="364" key="GridCell.Tab.1.center" timestamp="1590626347711">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="364" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590190267175" />
+    <state width="1750" height="364" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590626347711" />
+    <state width="1750" height="364" key="GridCell.Tab.1.left" timestamp="1590626347711">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="364" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590626347711" />
+    <state width="1750" height="364" key="GridCell.Tab.1.right" timestamp="1590626347711">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="364" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590626347711" />
+    <state width="896" height="548" key="XDebugger.FullValuePopup" timestamp="1590626326581">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="896" height="548" key="XDebugger.FullValuePopup/0.23.1792.1097@0.23.1792.1097" timestamp="1590626326581" />
     <state x="561" y="268" key="search.everywhere.popup" timestamp="1590180118565">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
